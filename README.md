@@ -35,7 +35,7 @@ function (actualAge){
 
 | Input | Output  |
 | ----- | ------  |
-| 1     |1,15,15  | 
+| 1     | { humanYears: 1, catYears: 15, dogYears: 15 }  | 
 | 3     |3,28,29  | 
 | 5     |5,36,39  | 
 | 10    |10,56,64 | 
